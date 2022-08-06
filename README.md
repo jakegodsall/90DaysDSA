@@ -50,4 +50,4 @@ This is the general guideline for how I expect my efforts to go, based on the vi
 Day 1:
 - Learned the fundamentals of time complexity (variable assignment, for loops, if-then statements)
 - Learned the time complexity of `list` operations in Python.
-- Worked through [these](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice) exercises, first converting to Python functions from the original JavaScript, and then doing the time complexity analysis .
+- Worked through [these](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice) exercises, first converting to Python functions from the original JavaScript, and then doing the time complexity analysis. [Solutions](https://github.com/jakegodsall/90DaysDSA/blob/main/day1/BigOPractice.ipynb)
