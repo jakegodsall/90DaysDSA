@@ -55,3 +55,8 @@ __06/08/2022__ (Day 1):
 __07/08/2022__ (Day 2):
 - Created a function for reversing values in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/reverse-array/src/Main.java)
 - Created a function for finding the minimum value in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/min-element-array/src/Main.java)
+- Completed chapter 1 and chapter 2 of _The Recursive Book of Recursion_. Notebooks [here](https://github.com/jakegodsall/90DaysDSA/tree/main/recursion-textbook).
+
+## Resources
+
+- The Recursive Book of Recursion: Ace the Coding Intervioew with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
