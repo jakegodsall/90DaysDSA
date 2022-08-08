@@ -56,9 +56,9 @@ __07/08/2022__ (Day 2):
 - Created a function for reversing values in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/reverse-array/src/Main.java).
 - Created a function for finding the minimum value in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/min-element-array/src/Main.java).
 - Completed chapter 1 and chapter 2 of _The Recursive Book of Recursion_. Notebooks [here](https://github.com/jakegodsall/90DaysDSA/tree/main/recursion-textbook).
-- Solved leetcode problem 492 using iterative solution [here](https://leetcode.com/problems/construct-the-rectangle/).
 
 __08/08/2022__ (Day 3):
+- Completed chapter 1 of _Introduction to Recursive Programming_.
 - Created an iterative-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-iterative/Main.java)
 - Created an recursive-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-recursive/Main.java)
 - Solved leetcode problem 492. construct the rectangle. Solution [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/leetcode492/Main.java)
@@ -66,3 +66,4 @@ __08/08/2022__ (Day 3):
 ## Resources
 
 - The Recursive Book of Recursion: Ace the Coding Intervioew with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
+- Introduction to Recursive Programming - Manuel Rubio Sanchez [Amazon](https://www.amazon.co.uk/Introduction-Recursive-Programming-Manuel-Rubio-Sanchez-ebook/dp/B07JZ6GP7Z/ref=sr_1_1?crid=2FLHDM0UL70LH&keywords=introduction+to+recursive+programming&qid=1659974216&sprefix=introduction+to+recursive+programming%2Caps%2C63&sr=8-1)
