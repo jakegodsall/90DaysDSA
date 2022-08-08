@@ -58,6 +58,10 @@ __07/08/2022__ (Day 2):
 - Completed chapter 1 and chapter 2 of _The Recursive Book of Recursion_. Notebooks [here](https://github.com/jakegodsall/90DaysDSA/tree/main/recursion-textbook).
 - Solved leetcode problem 492 using iterative solution [here](https://leetcode.com/problems/construct-the-rectangle/).
 
+__08/08/2022__ (Day 3):
+- Created an iterative-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-iterative/Main.java)
+- Created an recursive-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-recursive/Main.java)
+
 ## Resources
 
 - The Recursive Book of Recursion: Ace the Coding Intervioew with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
