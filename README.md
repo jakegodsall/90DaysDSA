@@ -61,6 +61,7 @@ __07/08/2022__ (Day 2):
 __08/08/2022__ (Day 3):
 - Created an iterative-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-iterative/Main.java)
 - Created an recursive-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-recursive/Main.java)
+- Solved leetcode problem 492. construct the rectangle. Solution [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/leetcode492/Main.java)
 
 ## Resources
 
