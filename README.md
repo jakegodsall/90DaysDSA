@@ -63,7 +63,12 @@ __08/08/2022__ (Day 3):
 - Created an recursive-based greatest common divider function in Java [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/gcd-recursive/Main.java)
 - Solved leetcode problem 492. construct the rectangle. Solution [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day3/leetcode492/Main.java)
 
+__09/08/2022__ (Day 4):
+- Comlpeted chapter 4.1-4.4 of _Data Structures and Algorithms in Python_.
+-
+
 ## Resources
 
 - The Recursive Book of Recursion: Ace the Coding Intervioew with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
 - Introduction to Recursive Programming - Manuel Rubio Sanchez [Amazon](https://www.amazon.co.uk/Introduction-Recursive-Programming-Manuel-Rubio-Sanchez-ebook/dp/B07JZ6GP7Z/ref=sr_1_1?crid=2FLHDM0UL70LH&keywords=introduction+to+recursive+programming&qid=1659974216&sprefix=introduction+to+recursive+programming%2Caps%2C63&sr=8-1)
+- Data Structures and Algorithms in Python - Michael T Goodrich [Amazon](https://www.amazon.co.uk/Structures-Algorithms-Goodrich-Goldwasser-Hardcover/dp/B011DC80VY/ref=sr_1_8?keywords=data+structures+and+algorithms+in+python&qid=1660039781&sprefix=data+str%2Caps%2C68&sr=8-8)
