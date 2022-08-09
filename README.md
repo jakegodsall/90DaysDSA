@@ -65,7 +65,7 @@ __08/08/2022__ (Day 3):
 
 __09/08/2022__ (Day 4):
 - Comlpeted chapter 4.1-4.4 of _Data Structures and Algorithms in Python_.
--
+- Completed 7/9 problems from w3resource JavaScript recursion exercises. Solutions [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day4/js-recursion-problems/script.js)
 
 ## Resources
 
