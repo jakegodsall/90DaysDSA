@@ -53,8 +53,8 @@ __06/08/2022__ (Day 1):
 - Worked through [these](https://www.learnhowtoprogram.com/computer-science/big-o-notation-and-binary-trees/big-o-practice) exercises, first converting to Python functions from the original JavaScript, and then doing the time complexity analysis. [Solutions](https://github.com/jakegodsall/90DaysDSA/blob/main/day1/BigOPractice.ipynb)
 
 __07/08/2022__ (Day 2):
-- Created a function for reversing values in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/reverse-array/src/Main.java).
-- Created a function for finding the minimum value in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/min-element-array/src/Main.java).
+- Created a function for reversing values in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/reverse-array/Main.java).
+- Created a function for finding the minimum value in an `Array` in Java and done time complexity analysis. [Here](https://github.com/jakegodsall/90DaysDSA/blob/main/day2/min-element-array/Main.java).
 - Completed chapter 1 and chapter 2 of _The Recursive Book of Recursion_. Notebooks [here](https://github.com/jakegodsall/90DaysDSA/tree/main/recursion-textbook).
 
 __08/08/2022__ (Day 3):
@@ -66,6 +66,15 @@ __08/08/2022__ (Day 3):
 __09/08/2022__ (Day 4):
 - Comlpeted chapter 4.1-4.4 of _Data Structures and Algorithms in Python_.
 - Completed 7/9 problems from w3resource JavaScript recursion exercises. Solutions [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day4/js-recursion-problems/script.js)
+
+
+__09/08/2022__ (Day 5):
+
+
+__09/08/2022__ (Day 6):
+- Completed chapter 4, Recursion, of _Data Structures and Algorithms in Python_.
+- Solved a handful of exercises from chapter 4, Recursion. [here](https://github.com/jakegodsall/90DaysDSA/blob/main/dsa-in-python/chapter-4-problems.ipynb)
+- Spend one hour total solving basic algorithm problems on HackerRank.
 
 ## Resources
 
