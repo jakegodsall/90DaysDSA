@@ -68,13 +68,17 @@ __09/08/2022__ (Day 4):
 - Completed 7/9 problems from w3resource JavaScript recursion exercises. Solutions [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day4/js-recursion-problems/script.js)
 
 
-__09/08/2022__ (Day 5):
+__10/08/2022__ (Day 5):
 
 
-__09/08/2022__ (Day 6):
+__11/08/2022__ (Day 6):
 - Completed chapter 4, Recursion, of _Data Structures and Algorithms in Python_.
 - Solved a handful of exercises from chapter 4, Recursion. [here](https://github.com/jakegodsall/90DaysDSA/blob/main/dsa-in-python/chapter-4-problems.ipynb)
 - Spend one hour total solving basic algorithm problems on HackerRank.
+
+__14/08/2022__ (Day 7):
+- Comlpeted two sections of chapter 5, Array-based Sequences of _Data Structures and Algorithms in Python_.
+- Created a DynamicArray class which mimics the interface for the list sequence in Python [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day6/python%20array-based-sequences.ipynb)
 
 ## Resources
 
