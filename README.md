@@ -77,8 +77,11 @@ __11/08/2022__ (Day 6):
 - Spend one hour total solving basic algorithm problems on HackerRank.
 
 __14/08/2022__ (Day 7):
-- Comlpeted two sections of chapter 5, Array-based Sequences of _Data Structures and Algorithms in Python_.
+- Completed two sections of chapter 5, Array-based Sequences of _Data Structures and Algorithms in Python_.
 - Created a DynamicArray class which mimics the interface for the list sequence in Python [here](https://github.com/jakegodsall/90DaysDSA/blob/main/day6/python%20array-based-sequences.ipynb)
+
+__15/08/2022__ (Day 8:
+- Completed 1 hour of algorithm problems on HackerRank in Python.
 
 ## Resources
 
