@@ -85,6 +85,6 @@ __15/08/2022__ (Day 8:
 
 ## Resources
 
-- The Recursive Book of Recursion: Ace the Coding Intervioew with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
-- Introduction to Recursive Programming - Manuel Rubio Sanchez [Amazon](https://www.amazon.co.uk/Introduction-Recursive-Programming-Manuel-Rubio-Sanchez-ebook/dp/B07JZ6GP7Z/ref=sr_1_1?crid=2FLHDM0UL70LH&keywords=introduction+to+recursive+programming&qid=1659974216&sprefix=introduction+to+recursive+programming%2Caps%2C63&sr=8-1)
+- The Recursive Book of Recursion: Ace the Coding Interview with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
+- Introduction to Recursive Programming - Manuel Rubio Sanchez [Amazon](https://www.amazon.co.uk/Introduction-Recursive-Programming-Manuel-Rubio-Sanchez-ebook/dp/B07JZ6GP7Z/ref=sr_1_1?crid=2FLHDM0UL70LH&keywords=introduction+to+recursive+programming&qid=1659974216&sprefix=introduction+to+recursive+programming%2Caps%2C63&sr=8-1) [Progress](https://docs.google.com/spreadsheets/d/1no70U56E3x83abBa5pOg_Hh5KiQwioTFQ_7oRzSzPeI/edit?usp=sharing)
 - Data Structures and Algorithms in Python - Michael T Goodrich [Amazon](https://www.amazon.co.uk/Structures-Algorithms-Goodrich-Goldwasser-Hardcover/dp/B011DC80VY/ref=sr_1_8?keywords=data+structures+and+algorithms+in+python&qid=1660039781&sprefix=data+str%2Caps%2C68&sr=8-8)
