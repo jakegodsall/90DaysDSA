@@ -83,6 +83,9 @@ __14/08/2022__ (Day 7):
 __15/08/2022__ (Day 8):
 - Completed 1 hour of algorithm problems on HackerRank in Python.
 
+__17/08/2022__ (Day 9):
+- Created the Jupyter notebook for the article to later be written on the Python list and dynamic arrays [here](https://github.com/jakegodsall/90DaysDSA/blob/main/articles/python-list-article.ipynb).
+
 ## Resources
 
 - The Recursive Book of Recursion: Ace the Coding Interview with Python and Javascript - Al Swelgart [Amazon](https://www.amazon.co.uk/Recursive-Book-Recursion-Interview-Javascript/dp/1718502028/ref=sr_1_1?keywords=the+recursive+book+of+recursion&qid=1659876526&sprefix=recursive+of+re%2Caps%2C76&sr=8-1)
