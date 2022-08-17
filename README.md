@@ -85,6 +85,7 @@ __15/08/2022__ (Day 8):
 
 __17/08/2022__ (Day 9):
 - Created the Jupyter notebook for the article to later be written on the Python list and dynamic arrays [here](https://github.com/jakegodsall/90DaysDSA/blob/main/articles/python-list-article.ipynb).
+- Completed 1 hour of algorithm problems on HackerRank in Python.
 
 ## Resources
 
